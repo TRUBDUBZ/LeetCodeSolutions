@@ -1,6 +1,6 @@
 # LeetCodeSolutions
 
-[https://leetcode.com](Leetcode)
+(Leetcode)[www.leetcode.com]
 
 ## Coding Problem Solutions
 
